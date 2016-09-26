@@ -1,2 +1,6 @@
 subTest01
 subTest02
+<<<<<<< HEAD
+=======
+SubTest03
+>>>>>>> parent of c3a099a... SUbTest04
